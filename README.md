@@ -4,12 +4,12 @@
 [![rank](https://make.fun/badge/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad/pakdebejos/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad/rank.svg)](https://make.fun/bounty/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad)
 [![reward](https://make.fun/badge/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad/pakdebejos/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad/reward.svg)](https://make.fun/bounty/u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad?utm_source=github&utm_medium=readme&utm_campaign=u-tina-spotlight-crisxai5-ai-crypto-expert-on-x-7c1ed9ad)
 
-Crisxai5 Turns Noisy Crypto Chaos: the program writes exactly one line — the drafted winning line for the 'Spotlight @crisxai5: AI & Crypto Expert on X' bounty — to /output/entry.txt, 89 UTF-8 characters, inside the 1–200 gate, deterministically, with Python's standard library only.
+Crisxai5 Turns Noisy Crypto Chaos: the program writes exactly one line — the drafted winning line for the 'Spotlight @crisxai5: AI & Crypto Expert on X' bounty — to /output/entry.txt, 89 UTF-8 characters, inside the 1–200 gate, deterministically, with Node.js's standard library only.
 
 ## Run it
 
 ```sh
-python3 main.py
+node main.ts
 ```
 
 ---
